@@ -1,0 +1,68 @@
+/*Se usa el #nombre por el div que usa "id=nombre" en la hoja html*/
+#productos{
+    height: 50vh;
+    overflow-y: scroll;
+    border-radius: 5px;
+    
+}
+
+#total{
+    font-weight: bold;
+    font-size: 25px;
+    
+    
+}
+
+#agregar{
+    font-weight: bold;
+}
+#guardar{
+    font-weight: bold;
+}
+
+#contenedor{
+    position: relative; /* crearcuenta*/
+    background: rgba(83, 82, 170, 0.8); /*color contraste*/
+    width: 100%;
+    max-width: 500px;
+    margin:50px auto;
+    border-radius: 5px;
+    padding: 40px;
+}
+body{
+    background-image: url("https://fondosmil.com/fondo/48096.jpg");
+    /*https://img.interempresas.net/fotos/1164857.jpeg*/
+}
+
+.container{
+margin-top: 30px;
+font-family: 'Oswald', sans-serif;
+}
+
+.container{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.container h1{
+    color: #00bddf;
+    font-weight:900;
+    text-align: center;
+    background:rgba(83, 82, 170, 0.8);
+    width: 30%;
+    background-position: center;
+    border-radius: 8px;
+    
+    
+}
+
+.alinea{
+    text-align: center;
+}
+.textoAl{
+    text-align: center;
+}
+
+.textoAl a{
+    margin-left: 30px;
+}
